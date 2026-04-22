@@ -1,5 +1,7 @@
 # UAV Flight Data Analysis in Julia
 
+[![DOI](https://zenodo.org/badge/1022887183.svg)](https://doi.org/10.5281/zenodo.19697696)
+
 This project provides a set of tools for analyzing UAV (drone) flight data using the Julia programming language. It includes functionality for:
 
 - ✅ Loading flight data from CSV
